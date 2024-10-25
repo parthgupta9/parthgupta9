@@ -3,7 +3,7 @@
 ## Skills
 - **Programming Languages:** C,C++
 - **Web Technologies:** html,css,javascript,reactjs,redux,nodejs,nextjs,
-- **Frameworks & Libraries:** Tailwindcss,bootstrap
+- **Frameworks & Libraries:** Tailwindcss,bootstrap,material-ui
 - **Databases:** Mongodb
 - **Other Skills:** DSA
 - 💞️ I’m looking to collaborate on open-source projects
